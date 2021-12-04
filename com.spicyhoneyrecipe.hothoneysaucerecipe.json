@@ -83,26 +83,18 @@
     {
       "id": 3,
       "name_category": "Medium",
-      "title": "Basque Burnt Cheesecake Recipe",
-      "image": "https://spanishsabores.com/wp-content/uploads/2020/05/DSC08145.jpg",
-      "description": "This Burnt Basque Cheesecake has a fantastic combination of textures, and it’s creamy from the inside, almost custard-like, and caramelized from the outside.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/Basque%20Burnt%20Cheesecake%20RECIPE.html"
+      "title": "Hot Honey Wing Sauce Recipe",
+      "image": "https://thenovicechefblog.com/wp-content/uploads/2021/04/Hot-Honey-Butter-Wings-in-the-Air-Fryer-1-600x900.jpeg",
+      "description": "This easy recipe takes just 20 minutes and you'll get the crispiest, juiciest, flavor packed wings every time.",
+      "link": "https://luluilmaknun023.github.io/hothoneysaucerecipe/Hot%20Honey%20Wing%20Sauce%20Recipe.html"
     },
 	{
       "id": 2,
       "name_category": "Medium",
-      "title": "Matcha Basque Cheesecake Recipe",
-      "image": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2577-IV.jpg",
-      "description": "This Matcha Basque Cheesecake recipe is a Japanese take on classic burnt Basque Cheesecake.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/Matcha%20Basque%20Cheesecake%20RECIPE.html"
-    },
-	{
-      "id": 1,
-      "name_category": "Medium",
-      "title": "Blueberry Basque Cheesecake Recipe",
-      "image": "https://communitykitchenatl.com/wp-content/uploads/2019/08/blueberry-basque-cheesecake-community-kitchen-atlanta.jpg",
-      "description": "Blueberry Basque Cheesecake is a delicious and easy recipe that will be enjoyed by everyone in the family.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/blueberry%20basque%20cheesecake%20RECIPE.html"
+      "title": "Sweet & Spicy Sriracha Sauce Recipe",
+      "image": "https://easysaucerecipes.com/wp-content/uploads/2021/04/honey-sriracha-sauce-carousel-360x360.jpg",
+      "description": "It's a simple sauce recipe that's perfect for chicken, beef, and even roasted vegetables.",
+      "link": "https://luluilmaknun023.github.io/hothoneysaucerecipe/Sweet%20&%20Spicy%20Sriracha%20Sauce%20Recipe.html"
     }
   ]
 }
