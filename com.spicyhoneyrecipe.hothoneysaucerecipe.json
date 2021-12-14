@@ -8,7 +8,7 @@
       "native_for_admob":"ca-app-pub-9200602507152446/2009445071",
       "backup_ads_banner":"46f82cf60462a1b6",
       "backup_ads_intertitial":"a7e255399fc7671e",
-      "interval_intertitial": 9,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "spicy honey recipe",
