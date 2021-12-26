@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-9200602507152446/7357974671",
-      "main_ads_intertitial":"ca-app-pub-9200602507152446/6044893004",
-      "native_for_admob":"ca-app-pub-9200602507152446/2009445071",
+      "main_ads_banner": "46f82cf60462a1b6",
+      "main_ads_intertitial":"a7e255399fc7671e",
+      "native_for_admob":"",
       "backup_ads_banner":"46f82cf60462a1b6",
       "backup_ads_intertitial":"a7e255399fc7671e",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "spicy honey recipe",
